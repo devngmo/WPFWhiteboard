@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <local:DrawingSurface x:Name="drawingSurface"></local:DrawingSurface>
     </Grid>
 </Window>
